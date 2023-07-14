@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHarnessCore", "TestHarnessCore\TestHarnessCore.csproj", "{27FB7669-D847-4127-8837-2899B26E54CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27FB7669-D847-4127-8837-2899B26E54CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FB7669-D847-4127-8837-2899B26E54CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FB7669-D847-4127-8837-2899B26E54CC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{27FB7669-D847-4127-8837-2899B26E54CC}.Debug|x64.Build.0 = Debug|Any CPU
+		{27FB7669-D847-4127-8837-2899B26E54CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FB7669-D847-4127-8837-2899B26E54CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FB7669-D847-4127-8837-2899B26E54CC}.Release|x64.ActiveCfg = Release|Any CPU
+		{27FB7669-D847-4127-8837-2899B26E54CC}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6088BF5C-EF64-4413-8A06-8ADFCEA5E738}
+	EndGlobalSection
+EndGlobal
